@@ -8,7 +8,7 @@ middle_name:
 last_name: Samuel
 email: vsamuel@umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Vinay Samuel | Machine Learning Research Intern at Scale AI
+  Vinay Samuel | Machine Learning Research Engineer at Scale AI
 footer_text: >
   Website template taken from <a href="https://feyzaakyurek.github.io/">https://feyzaakyurek.github.io/</a>.
 keywords: ai, ml, nlp, machine-learning, artificial-intelligence, natural-language-processing, computer science
