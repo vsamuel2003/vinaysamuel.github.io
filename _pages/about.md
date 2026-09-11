@@ -17,7 +17,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am currently a Machine Learning Research Engineer at Scale AI and am a CS Masters student at UMD College Park, working on LLM agents, alignment/controllability, RL, and post-training. I received my BS in Statistics and Machine Learning from Carnegie Mellon University in May 2025.
+I am currently a Machine Learning Research Engineer at Scale AI and a master's student in computer science at UMD College Park. My work focuses on LLM agents, alignment and controllability, reinforcement learning, and post-training. I received my BS in Statistics and Machine Learning from Carnegie Mellon University in May 2025.
 
 Currently I am conducting research under [Dr. Mohit Iyyer](https://www.cs.umd.edu/~miyyer/) on reversing LLM Alignment Tax. Previously, I had the privilege of being mentored by [Dr. Daphne Ippolito](https://www.daphnei.com), [Dr. Karthik Narasimhan](https://karthikncode.github.io), and [Dr. Diyi Yang](https://cs.stanford.edu/~diyiy/).
 
